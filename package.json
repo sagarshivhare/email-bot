@@ -15,6 +15,7 @@
     "imapflow": "^1.0.189",
     "mailparser": "^3.7.4",
     "mongoose": "^8.16.1",
-    "nodemailer": "^7.0.4"
+    "nodemailer": "^7.0.4",
+    "winston": "^3.17.0"
   }
 }
